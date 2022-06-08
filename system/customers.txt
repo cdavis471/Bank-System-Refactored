@@ -1,0 +1,15 @@
+CustID:1; - CustAcc:JeffBezos123; - CustPass:Bezos; - CustName:Jeff Bezos; - CustAge:27; - CustEmail:JeffBezos@amazon.com; - CustPhone:018354679; - CustAddress:Amazon HQ, Dublin, Ireland;ENDED;
+CustID:2; - CustAcc:JeffJohn01; - CustPass:JohnnyBai; - CustName:Jeffrey Johnson; - CustAge:30; - CustEmail:JJTheMan@gmail.com; - CustPhone:0875679234; - CustAddress:8, The Falls, Sligo, Ireland;ENDED;
+CustID:3; - CustAcc:MichaelJackson; - CustPass:TeeHee; - CustName:Michael Jackson; - CustAge:50; - CustEmail:JeffBezos@amazon.com; - CustPhone:018398779; - CustAddress:Neverland, Mayo, Ireland;ENDED;
+CustID:4; - CustAcc:conordav_01; - CustPass:thisisthekrustykrab; - CustName:Conor Davis; - CustAge:20; - CustEmail:C20441826@mytudublin.ie; - CustPhone:0123456789; - CustAddress:Navan, Ireland;ENDED;
+CustID:5; - CustAcc:brianreitzell21; - CustPass:Bezos; - CustName:Brian Reitzell; - CustAge:21; - CustEmail:GoodMusic@netflix.com; - CustPhone:017454679; - CustAddress:Meath, Ireland;ENDED;ENDED;
+CustID:6; - CustAcc:TheImpaler1431; - CustPass:voivode; - CustName:Vlad Dracula; - CustAge:590; - CustEmail:TheDragon@vampire.com; - CustPhone:013334678; - CustAddress:Castle Dracula, Wallachia, Romania;ENDED;
+CustID:7; - CustAcc:tester123; - CustPass:123456; - CustName:Tester Man; - CustAge:16; - CustEmail:Jeffy@email.com; - CustPhone:09841245; - CustAddress:This House, That Street, Meath;ENDED;
+CustID:8; - CustAcc:123456; - CustPass:123456; - CustName:TestUser420; - CustAge:14; - CustEmail:email@email.com; - CustPhone:1234567; - CustAddress:Tester;ENDED;
+CustID:9; - CustAcc:final_test; - CustPass:123456; - CustName:Conor Davis; - CustAge:20; - CustEmail:email@email.com; - CustPhone:076212467; - CustAddress:Street, City, County;ENDED;
+CustID:10; - CustAcc:finaltestv2; - CustPass:123456; - CustName:Slim Shady; - CustAge:18; - CustEmail:email@email.com; - CustPhone:0981274567; - CustAddress:Address, Address, Meath;ENDED;
+CustID:11; - CustAcc:finaltest01; - CustPass:123456; - CustName:NameOfPerson; - CustAge:19; - CustEmail:email@email.com; - CustPhone:01247567589; - CustAddress:street,address,county;ENDED;
+CustID:12; - CustAcc:Jeff123; - CustPass:Password234; - CustName:Conor Davis; - CustAge:24; - CustEmail:Jeff@gmail.com; - CustPhone:0123456789; - CustAddress:0123456789;ENDED;
+CustID:13; - CustAcc:1234567; - CustPass:1234567; - CustName:Conor Davis; - CustAge:22; - CustEmail:email@email.com; - CustPhone:123456789; - CustAddress:Address, Here;ENDED;
+CustID:14; - CustAcc:LucasRizzo; - CustPass:123456; - CustName:Lucas Rizzo; - CustAge:22; - CustEmail:lucas@gmail.com; - CustPhone:1234567890; - CustAddress:asfas a;ENDED;
+CustID:15; - CustAcc:123456Test; - CustPass:123456Test; - CustName:Conor Davis; - CustAge:22; - CustEmail:jeff@gmail.com; - CustPhone:123456789; - CustAddress:testing, bro;ENDED;

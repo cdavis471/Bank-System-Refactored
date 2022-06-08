@@ -1,0 +1,15 @@
+AccID:1; - CustAcc:brianreitzell21; - IBAN:IE29TUDG45529542873064; - BAL:3000; - AccType:Saving;ENDED;
+AccID:2; - CustAcc:JeffJohn01; - IBAN:IE29TUDG13230977044814; - BAL:4050; - AccType:Saving;ENDED;
+AccID:3; - CustAcc:MichaelJackson; - IBAN:IE29TUDG47775110768426; - BAL:259; - AccType:Saving;ENDED;
+AccID:4; - CustAcc:conordav_01; - IBAN:IE29TUDG47149805312957; - BAL:15425; - AccType:Saving;ENDED;
+AccID:5; - CustAcc:MichaelJackson; - IBAN:IE29TUDG47775110768425; - BAL:6610; - AccType:Checking;ENDED;
+AccID:6; - CustAcc:123456; - IBAN:IE29TUDG36802571475785; - BAL:810; - AccType:Saving;ENDED;
+AccID:7; - CustAcc:123456; - IBAN:IE29TUDG36443651584542; - BAL:50; - AccType:Saving;ENDED;
+AccID:9; - CustAcc:final_test; - IBAN:IE29TUDG47839651604129; - BAL:1000; - AccType:Saving;ENDED;
+AccID:9; - CustAcc:finaltestv2; - IBAN:IE29TUDG48570932422716; - BAL:0; - AccType:Saving;ENDED;
+AccID:10; - CustAcc:finaltestv2; - IBAN:IE29TUDG36236015556400; - BAL:40; - AccType:Checking;ENDED;
+AccID:11; - CustAcc:finaltestv2; - IBAN:IE29TUDG37772548411272; - BAL:900; - AccType:Checking;ENDED;
+AccID:12; - CustAcc:finaltestv2; - IBAN:IE29TUDG33164858973488; - BAL:990; - AccType:Saving;ENDED;
+AccID:13; - CustAcc:finaltest01; - IBAN:IE29TUDG72600388086280; - BAL:950; - AccType:Saving;ENDED;
+AccID:14; - CustAcc:finaltest01; - IBAN:IE29TUDG50846493140118; - BAL:50; - AccType:Checking;ENDED;
+AccID:15; - CustAcc:finaltest01; - IBAN:IE29TUDG61234986941967; - BAL:5000; - AccType:Checking;ENDED;

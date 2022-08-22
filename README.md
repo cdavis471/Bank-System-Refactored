@@ -8,7 +8,7 @@ Starting the program, you will be given the options to Login, Register or Exit:
 
 ###### Login: You must enter your credentials to access the program, meaning you enter your username and password before being let in.  
 ###### Register: If you do not have an account, you can enter your own details but there are requirements you must meet for the account to be created – enter all fields, username / password must be six characters long, email must include an @ symbol for the domain, phone number must be valid, you must be fourteen (at least) and your username has to be unique.  
-###### Exit: This is to stop the program. Using this will quit.  
+###### Exit: This is to stop the program.  
 
 After you login or register, you will be brought to your customer menu, which will display your name and id. From here you can select from five options:
 

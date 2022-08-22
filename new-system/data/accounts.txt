@@ -13,3 +13,4 @@ AccID:12; - CustAcc:finaltestv2; - IBAN:IE29TUDG33164858973488; - BAL:990; - Acc
 AccID:13; - CustAcc:finaltest01; - IBAN:IE29TUDG72600388086280; - BAL:950; - AccType:Saving;ENDED;
 AccID:14; - CustAcc:finaltest01; - IBAN:IE29TUDG50846493140118; - BAL:50; - AccType:Checking;ENDED;
 AccID:15; - CustAcc:finaltest01; - IBAN:IE29TUDG61234986941967; - BAL:5000; - AccType:Checking;ENDED;
+AccID:16; - CustAcc:JeffBezos123; - IBAN:IE29TUDG65172670126276; - BAL:0; - AccType:Saving;ENDED;
